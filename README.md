@@ -1,2 +1,2 @@
 # node-farm
-Farm app using node and express, pug
+The farm app using node.js, html, css
